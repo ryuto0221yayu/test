@@ -1,0 +1,11 @@
+
+
+h1 {
+  background: #ff0000;
+  width: 300px;
+  height: 300px;
+  /* 外側の余白 */
+  margin: 50px auto;
+  /* マージンの相殺 */
+}
+
